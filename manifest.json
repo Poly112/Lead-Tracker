@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Lead Tracker",
+  "version": "1.0",
+  "description": "Stores urls",
+  "action": {
+    "default_popup": "index.html",
+    "deault_icon": "icon48.png"
+  },
+  "permissions": ["tabs"],
+  "icons": {
+    "48": "icon48.png",
+    "126": "icon126.png"
+  }
+}
